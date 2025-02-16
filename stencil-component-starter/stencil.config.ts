@@ -18,7 +18,7 @@ export const config: Config = {
       serviceWorker: null, // disable service workers
     },
   ],
-  testing: {
-    browserHeadless: "new",
-  },
+  // testing: {
+  //   browserHeadless: "new",
+  // },
 };
